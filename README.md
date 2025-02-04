@@ -1,13 +1,9 @@
-
-
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=28&lines=Hi👋+I'm+Goutom+Roy..;Student+of+IUB;Learning+In+Public..;Driven+by+curiosity+and+a+passion+for+growth;Nice+To+Meet+You+....&center=true"></a></p>
-    
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=28&lines=Hi👋+I'm+Goutom+Roy..;Student+of+IUB;Learning+In+Public..;Driven+by+curiosity+and+a+passion+for+growth;Nice+To+Meet+You+....&center=true">
+</p>
 
-    
 # 🖥️ Technical Skills: 
-<p align="left">
+<p align="center">
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -45,36 +41,48 @@
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
-
-  
 </p>
 
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GoutomRoy64&cache_bust=timestamp&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=GoutomRoy64&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?GoutomRoy64&cache_bust=timestamp&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<img src="https://media.giphy.com/media/2aB1doEHq8WYzEjtbY/giphy.gif" alt="Rocket GIF" width="180">
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Fixing Bugs GIF" width="180" height="180">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutomRoy64&cache_bust=timestamp&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GoutomRoy64&theme=radical&hide_border=false&include_all_commits=false&count_private=false"  height="200" />
+  <img src="https://streak-stats.demolab.com/?user=GoutomRoy64&theme=radical&hide_border=false" alt="GitHub Streak"  height="200" />
+</p>
 
 
+---
 
-<br/>
-
-
-
-# 🏆GitHub Trophies
+# 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GoutomRoy64&cache_bust=timestamp&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake.svg" />
-</picture>
+---
+
+# 🛠 Fun Section:
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+  <img src="https://media.giphy.com/media/2aB1doEHq8WYzEjtbY/giphy.gif" alt="Rocket GIF" width="180">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Fixing Bugs GIF" width="180" height="180">
+</p>
+
+---
+
+# 🐍 GitHub Contributions Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/GoutomRoy64/GoutomRoy64/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 
-
-
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/GoutomRoy64.GoutomRoy64.svg)
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=GoutomRoy64&label=Profile%20Views&color=red&style=plastic" alt="Profile Views">
+</p>
