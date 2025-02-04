@@ -54,6 +54,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=GoutomRoy64&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?GoutomRoy64&cache_bust=timestamp&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<img src="https://media.giphy.com/media/2aB1doEHq8WYzEjtbY/giphy.gif" alt="Rocket GIF" width="180">
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Fixing Bugs GIF" width="180" height="180">
+
+
+
 <br/>
 
 
