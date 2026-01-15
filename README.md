@@ -47,8 +47,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutomRoy64&cache_bust=timestamp&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GoutomRoy64&theme=radical&hide_border=false&include_all_commits=false&count_private=false"  height="200" />
+  <img class="img-fluid" src="https://github-readme-stats-plum-mu-12.vercel.app/api/top-langs/?username=GoutomRoy64&theme=radical&hide_border=true&include_all_commits=true&layout=compact" alt="Top Languages">
+  <img class="img-fluid" src="https://github-readme-stats-plum-mu-12.vercel.app/api?username=GoutomRoy64&theme=radical&hide_border=true&show_icons=true&include_all_commits=true" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com/?user=GoutomRoy64&theme=radical&hide_border=false" alt="GitHub Streak"  height="200" />
 </p>
 
